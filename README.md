@@ -16,14 +16,6 @@ The primary goal is to create a scalable and interactive chatbot. While the core
 -   **Scalable Backend:** Built with a modular, API-first design in Node.js and Express.js, allowing for easy integration into any User-Generated Content (UGC) platform or third-party frontend.
 -   **Modern UI:** A clean and responsive user interface built with React.js and styled with Tailwind CSS.
 
-## 🚀 Roadmap: Future Enhancements
-
-The next major development phase will focus on implementing persistent memory to create a truly personalized experience.
-
--   **🧠 Conversational Memory:** Store user details, key preferences, and chat history in MongoDB to enable context recall across multiple sessions.
--   **🎨 Personalization:** Leverage stored memory to bring up topics of interest (e.g., sports, anime) and tailor replies to the user's personality.
--   **🎭 Context-Aware Tone Adaptation:** Adapt the chatbot's tone (formal, casual, empathetic) based on the ongoing emotional context of the conversation.
-
 ## 🛠️ Tech Stack
 
 -   **Frontend:** React.js, Tailwind CSS
